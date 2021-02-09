@@ -1,5 +1,5 @@
 title: "IMOC Pro"
-author: "Blog Author"
+author: "IMOC"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -22,10 +22,10 @@ navigation:
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:imoc2pro@gmail.com"}
   - {title: Wikidot, icon: flag, url: "http://imocamp.wikidot.com/"}
-  - {title: A, icon: file, url: "/A.pdf"}
-  - {title: C, icon: file, url: "/C.pdf"}
-  - {title: G, icon: file, url: "/G.pdf"}
-  - {title: N, icon: file, url: "/N.pdf"}
+  - {title: 代數, icon: file, url: "/A.pdf"}
+  - {title: 組合, icon: file, url: "/C.pdf"}
+  - {title: 幾何, icon: file, url: "/G.pdf"}
+  - {title: 數論, icon: file, url: "/N.pdf"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
