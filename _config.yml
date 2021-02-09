@@ -22,8 +22,10 @@ navigation:
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:imoc2pro@gmail.com"}
   - {title: Wikidot, icon: flag, url: "http://imocamp.wikidot.com/"}
-  - {title: PDF, icon: file, url: "/A.pdf"}
-  - {title: PDF, icon: file, url: "https://lii4.github.io/Conic.pdf"}
+  - {title: A, icon: file, url: "/A.pdf"}
+  - {title: C, icon: file, url: "/C.pdf"}
+  - {title: G, icon: file, url: "/G.pdf"}
+  - {title: N, icon: file, url: "/N.pdf"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
