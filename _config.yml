@@ -21,7 +21,7 @@ navigation:
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:imoc2pro@gmail.com"}
-  - {title: Wikidot, icon: external-link-square, url: "http://imocamp.wikidot.com/"}
+  - {title: Wikidot, icon: arrow-circle-o-left, url: "http://imocamp.wikidot.com/"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
